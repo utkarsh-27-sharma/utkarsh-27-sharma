@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @utkarsh-27-sharma
+- 👋 Hi, I’m Utkarsh
 - 👀 I’m interested in Python, Machine Learning and Web Development
 - 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on any project related to machine learning and web development
