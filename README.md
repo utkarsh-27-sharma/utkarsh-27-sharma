@@ -15,4 +15,5 @@ I am a self taught developer, trying to dive deep into the world of the web.
 
 ### You can check my works over here.
 [Movie Recommendatoin System](https://movies-recommender-sys.herokuapp.com/) <br>
-[Vehicle Price Recommendation](https://vehiclepricepredictor.herokuapp.com/)
+[Vehicle Price Recommendation](https://vehiclepricepredictor.herokuapp.com/) <br>
+[Snake'O'Mania](https://utkarsh-27-sharma.github.io/snake-o-mania.github.io/)
